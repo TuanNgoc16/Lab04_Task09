@@ -1,0 +1,15 @@
+C:\Users\tuan ngoc\source\repos\GeometricObjectDemo\GeometricObjectDemo\obj\Debug\net6.0\GeometricObjectDemo.csproj.AssemblyReference.cache
+C:\Users\tuan ngoc\source\repos\GeometricObjectDemo\GeometricObjectDemo\obj\Debug\net6.0\GeometricObjectDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuan ngoc\source\repos\GeometricObjectDemo\GeometricObjectDemo\obj\Debug\net6.0\GeometricObjectDemo.AssemblyInfoInputs.cache
+C:\Users\tuan ngoc\source\repos\GeometricObjectDemo\GeometricObjectDemo\obj\Debug\net6.0\GeometricObjectDemo.AssemblyInfo.cs
+C:\Users\tuan ngoc\source\repos\GeometricObjectDemo\GeometricObjectDemo\obj\Debug\net6.0\GeometricObjectDemo.csproj.CoreCompileInputs.cache
+C:\Users\tuan ngoc\source\repos\GeometricObjectDemo\GeometricObjectDemo\bin\Debug\net6.0\GeometricObjectDemo.exe
+C:\Users\tuan ngoc\source\repos\GeometricObjectDemo\GeometricObjectDemo\bin\Debug\net6.0\GeometricObjectDemo.deps.json
+C:\Users\tuan ngoc\source\repos\GeometricObjectDemo\GeometricObjectDemo\bin\Debug\net6.0\GeometricObjectDemo.runtimeconfig.json
+C:\Users\tuan ngoc\source\repos\GeometricObjectDemo\GeometricObjectDemo\bin\Debug\net6.0\GeometricObjectDemo.dll
+C:\Users\tuan ngoc\source\repos\GeometricObjectDemo\GeometricObjectDemo\bin\Debug\net6.0\GeometricObjectDemo.pdb
+C:\Users\tuan ngoc\source\repos\GeometricObjectDemo\GeometricObjectDemo\obj\Debug\net6.0\GeometricObjectDemo.dll
+C:\Users\tuan ngoc\source\repos\GeometricObjectDemo\GeometricObjectDemo\obj\Debug\net6.0\refint\GeometricObjectDemo.dll
+C:\Users\tuan ngoc\source\repos\GeometricObjectDemo\GeometricObjectDemo\obj\Debug\net6.0\GeometricObjectDemo.pdb
+C:\Users\tuan ngoc\source\repos\GeometricObjectDemo\GeometricObjectDemo\obj\Debug\net6.0\GeometricObjectDemo.genruntimeconfig.cache
+C:\Users\tuan ngoc\source\repos\GeometricObjectDemo\GeometricObjectDemo\obj\Debug\net6.0\ref\GeometricObjectDemo.dll
